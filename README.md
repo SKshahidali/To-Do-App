@@ -1,16 +1,44 @@
-# to_do_app
+# To-Do App
 
-A new Flutter project.
+A simple to-do app built with Flutter.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Add, edit, and delete tasks
+- Mark tasks as completed
+- User-friendly interface
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Make sure you have Flutter installed on your local machine. For more information on installing Flutter, check the [official documentation](https://flutter.dev/docs/get-started/install).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/your-username/to-do-app.git
+    ```
+
+2. **Navigate to the project directory:**
+
+    ```bash
+    cd to-do-app
+    ```
+
+3. **Install dependencies:**
+
+    ```bash
+    flutter pub get
+    ```
+
+4. **Run the app:**
+
+    ```bash
+    flutter run
+    ```
+
+## Dependencies
+
+- [Flutter](https://flutter.dev/)
+- [Flutter Slidable](https://pub.dev/packages/flutter_slidable)
+- [Google Fonts](https://pub.dev/packages/google_fonts)
+
+
